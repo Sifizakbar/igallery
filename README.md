@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 gallery.html
 
 <html>
@@ -94,7 +94,7 @@ function func4()
     document.getElementById("t4").style.height=300;
     document.getElementById("t4").style.width=300;
 }
-
+```
 ## OUTPUT:
 
 ![alt text](<Screenshot (24).png>)
